@@ -114,7 +114,7 @@ IncludeTemplateLangFile(__FILE__);
                     <div class="cnt">
                         <?if ($APPLICATION->GetCurPage(false) != "/"):?>
                     <header>
-                            <h1>Заголовок страницы</h1>
+                            <h1><?$APPLICATION->ShowTitle()?></h1>
                         </header>
                         <hr>
                         <?else:?>

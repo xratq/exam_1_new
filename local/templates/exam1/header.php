@@ -92,7 +92,7 @@ IncludeTemplateLangFile(__FILE__);
 		"COMPONENT_TEMPLATE" => "horizontal_multilevel1"
 	),
 	false
-);?>.
+);?>
         <!-- /nav -->
          <!-- breadcrumbs -->
          <?if ($APPLICATION->GetCurPage(false) != "/"):?>

@@ -185,7 +185,7 @@ IncludeTemplateLangFile(__FILE__);
 		                                        <br>
 		                                        <div class="inner-block">
 		                                            <a href="" class="photo-block">
-		                                                <img src="<?SITE_TEMPLATE_PATH?>/img/new01.jpg" alt="">
+		                                                <img src="<?=SITE_TEMPLATE_PATH?>/img/new01.jpg" alt="">
 		                                            </a>
 		                                            <div class="text"><a href="">Угловой диван "Титаник",  с большим выбором расцветок и фактур.</a>
 		                                            <a href="" class="btn-arr"></a>
@@ -201,7 +201,7 @@ IncludeTemplateLangFile(__FILE__);
 		                                        <br>
 		                                        <div class="inner-block">
 		                                            <a href="" class="photo-block">
-		                                                <img src="<?SITE_TEMPLATE_PATH?>/img/new02.jpg" alt="">
+		                                                <img src="<?=SITE_TEMPLATE_PATH?>/img/new02.jpg" alt="">
 		                                            </a>
 		                                            <div class="text"><a href="">Угловой диван "Титаник",  с большим выбором расцветок и фактур.</a>
 		                                            <a href="" class="btn-arr"></a>
@@ -217,7 +217,7 @@ IncludeTemplateLangFile(__FILE__);
 		                                        <br>
 		                                        <div class="inner-block">
 		                                            <a href="" class="photo-block">
-		                                                <img src="<?SITE_TEMPLATE_PATH?>/img/new03.jpg" alt="">
+		                                                <img src="<?=SITE_TEMPLATE_PATH?>/img/new03.jpg" alt="">
 		                                            </a>
 		                                            <div class="text"><a href="">Угловой диван "Титаник",  с большим выбором расцветок и фактур.</a>
 		                                            <a href="" class="btn-arr"></a>

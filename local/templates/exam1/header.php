@@ -26,6 +26,7 @@ IncludeTemplateLangFile(__FILE__);
 <body>
     <!-- wrap -->
     <div class="wrap">
+        <?$APPLICATION->ShowPanel();?>
         <!-- header -->
         <header class="header">
             <div class="inner-wrap">
